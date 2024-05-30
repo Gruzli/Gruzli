@@ -54,16 +54,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
-<h1 style= "margin-top: 30px; border: none">📈 Stats</h1>
-<div align="center">
-
-<table>
-<tr>
-<img height="140px" style="padding: 5px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gruzli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"alt="gruzli"/>
-</tr>
-</table>
-
-</div>
-
 </details>
