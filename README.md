@@ -45,10 +45,4 @@
 <div align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </div>
-
-<h1 style= "margin-top: 30px; border: none">🎮 Game Engines</h1>
-<div align="left">
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="UE_Logo.svg" alt="unreal" width="40" height="40"/> </a> </p>
-</div>
 </details>
