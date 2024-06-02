@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p></p>
+</p>
 
 <details>
 <summary><b>More Info</b></summary>
