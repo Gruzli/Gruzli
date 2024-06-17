@@ -1,5 +1,5 @@
 <div align="center">
-<img width="700" src="WpP.jpg">
+<img width="700" src="Image/WpP.jpg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2C2C2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gregorius+Cahyadi)](https://git.io/typing-svg)
 </div>
@@ -33,7 +33,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="laravel-logo.svg" alt="laravel" width="40" height="40"/> </a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="Image/laravel-logo.svg" alt="laravel" width="40" height="40"/> </a> 
 </div>
 
 <h1 style= "margin-top: 30px; border: none">💾 Backend Development & Database</h1>
