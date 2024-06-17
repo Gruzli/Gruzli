@@ -1,9 +1,12 @@
 <div align="center">
 <img width="700" src="WpP.jpg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2C2C2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gregorius+Cahyadi;A+passionate+CS+Student+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2C2C2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gregorius+Cahyadi)](https://git.io/typing-svg)
 </div>
-
+<img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4A8CA&center=true&vCenter=true&width=435&lines=A+passionate+CS+Student+%F0%9F%98%8A"
+    alt="Typing SVG" style="filter: drop-shadow(2px 2px 1px #7b1a58);" />
+    
 - 🌱 I’m currently learning **Flutter, Dart, Kotlin**
 
 <h3 align="left">Connect with me:</h3>
